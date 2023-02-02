@@ -53,16 +53,16 @@ p {
     font-size: larger;
 }
 
-.introPage {
+#introPage {
 
-    display: block;
+    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
 #startGame {
-    display: block;
+    display: flex;
     align-items: center;
 }
 
