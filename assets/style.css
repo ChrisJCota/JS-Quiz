@@ -64,6 +64,8 @@ p {
 #startGame {
     display: flex;
     align-items: center;
+    color: black;
+
 }
 
 
